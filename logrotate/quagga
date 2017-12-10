@@ -1,0 +1,4 @@
+/var/log/quagga/*.log {
+    rotate 5
+    daily
+}
